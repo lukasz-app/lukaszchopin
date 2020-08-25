@@ -1,7 +1,6 @@
-### Hi there 👋 
-# I'm Łukasz
-## mobile and frontend developer from Warsaw, Poland.
-I currently work for [360CodeLab](https://www.360-lab.com/startups/#about)
+### Hi 👋 Łukasz here
+I'm a mobile and frontend developer from Warsaw, Poland.
+I currently work for [360CodeLab](https://www.360-lab.com/startups/#about) 
 
 <!--
 
