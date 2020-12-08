@@ -1,6 +1,6 @@
 ### Hi 👋 Łukasz here
 I'm a mobile and frontend developer from Warsaw, Poland.
-I currently work for [360CodeLab](https://www.360-lab.com/startups/#about) 
+I currently work for [FlipFit](https://www.flipfit.com/) 
 
 <!--
 
