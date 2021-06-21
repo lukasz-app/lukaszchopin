@@ -1,6 +1,6 @@
 ### Hi 👋 Łukasz here
 I'm a mobile and frontend developer from Warsaw, Poland.
-I currently work for [FlipFit](https://www.flipfit.com/) 
+I currently work for [Callstack](https://callstack.com/) 
 
 <!--
 
